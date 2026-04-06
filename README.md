@@ -81,5 +81,5 @@ It helps in understanding business performance and generating actionable insight
 
 ---
 
-## 👨‍💻 Author
+##  Author
 Ujjawal Shah
